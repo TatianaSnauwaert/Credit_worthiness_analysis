@@ -31,4 +31,4 @@ Prepare a report for a bank’s loan division to find out if a customer’s mari
 7. Women are more likely to payoff a loan. It could probably be explained by the finding that has been replicated in a variety of studies over the years that men are more inclined to take risks than women.
 
 ### The logbook of this project can be found [here](https://docs.google.com/spreadsheets/d/1SrGdReexaSEomJGS6yR6cRwJtHA_XqpprnLaE7B6Ayg/edit?usp=sharing) (Data preprocessing tab).
-Total time spent on the project: 24.2 hours with a daily average	of 2.74 hours working for 9 days.
+Total time spent on the project: 24.2 hours with a daily average	of 2.69 hours working for 9 days.
